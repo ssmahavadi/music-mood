@@ -1,2 +1,3 @@
 # spotifymoodclassification
-A Python project that categorizes Spotify tracks into four moods (happy, sad, energetic, calm) based on their respective features. Implements KNN algorithms.
+This is a python project that categorizes Spotify tracks into four moods (happy, sad, energetic, calm) based on their respective features. The program implements KNN algorithms to achieve this task.
+The project was completed in a month's time, specifically in March of 2021.
